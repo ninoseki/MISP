@@ -1,0 +1,3 @@
+files:
+  - source: /app/Locale/default.pot
+    translation: /app/Locale/%two_letters_code%/%original_file_name%
