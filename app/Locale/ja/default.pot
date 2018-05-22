@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mist-test\n"
-"PO-Revision-Date: 2018-05-21 22:46-0400\n"
+"PO-Revision-Date: 2018-05-21 22:51-0400\n"
 "Last-Translator: ninoseki <zgok0079@gmail.com>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: Controller/EventsController.php:1403;1476;1480;1680;1742;1817;2412
 #: Controller/PostsController.php:52
 msgid "Invalid event"
-msgstr ""
+msgstr "無効なイベントです。"
 
 #: Controller/AppController.php:497
 msgid "All done. attribute_count generated from scratch for "
@@ -107,7 +107,7 @@ msgstr ""
 
 #: Controller/EventsController.php:1052
 msgid "Invalid event."
-msgstr ""
+msgstr "無効なイベントです。"
 
 #: Controller/EventsController.php:1213
 msgid "You may only upload GFI Sandbox zip files."
